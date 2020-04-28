@@ -1,0 +1,2 @@
+rootProject.name='CustomPlacePicker'
+include ':app'
